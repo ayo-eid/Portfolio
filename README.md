@@ -1,4 +1,4 @@
-# Detection of epiliptec seizures using machine learning methods
+# Detection of Epileptic Seizures using Machine Learning Methods
 Epileptic seizures occur as a result of brain functional dysfunction and can affect the health of the
 patient. Prediction of epileptic seizures before the onset is very useful for the prevention of seizures
 through medication. Electroencephalograms (EEG) signals are used to detect & predict epileptic seizures
