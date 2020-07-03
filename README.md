@@ -1,4 +1,4 @@
-# Mutli-label Classifcation Procedure
+# Mutli-label EEG Classifcation 
 Classification of Multi-Labels EEG signals of bonn dataset found at https://archive.ics.uci.edu/ml/datasets/Epileptic+Seizure+Recognition
 1.   Preprocessing for the used dataset
 2.   Balancing the Dataset
