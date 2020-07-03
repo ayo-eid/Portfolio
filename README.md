@@ -4,12 +4,12 @@ Epileptic seizures occur as a result of brain functional dysfunction and can aff
 
 # Seizure Detection Procedure
 
-    Combine all EEG signal channels using Averaging
-    Filter using bass band filters for increasing SNR
-    Feature extraction
-    Normalization
-    Balancing the Prevalence rate
-    SVM Vs. KNN for classification
-    Testing & validation using K-fold
+    1. Combine all EEG signal channels using Averaging
+    2 Filter using bass band filters for increasing SNR
+    3. Feature extraction
+    4. Normalization
+    5. Balancing the Prevalence rate
+    6. SVM Vs. KNN for classification
+    7. Testing & validation using K-fold
 
 Dataset Available at https://physionet.org/content/chbmit/1.0.0/
